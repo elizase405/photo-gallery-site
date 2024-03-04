@@ -35,9 +35,6 @@
 <!-- OVERVIEW -->
 
 ## Overview
-
-![screenshot](assets/photo-gallery-site.png)
-
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Live site [here](https://elizase405.github.io/photo-gallery-site/)
@@ -68,5 +65,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://github.com/elizase405)
-- Twitter [@your-twitter](https://twitter.com/eliza31634)
+- GitHub [@elizase405](https://github.com/elizase405)
+- Twitter [@eliza31634](https://twitter.com/eliza31634)
